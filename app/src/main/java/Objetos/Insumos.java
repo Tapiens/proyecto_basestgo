@@ -7,7 +7,7 @@ public class Insumos {
 
     private int id;
     private String[] Insumos ={"Carlitos duty","Mario Kart 7","San Andrea", "Super Mauricio", "La leyenda de Melda"};
-    private int[] precios ={30000,38000,25000,40000,45000};
+    private int[] precios ={35000,38000,30000,40000,45000};
     private int stock;
 
     public Insumos()
