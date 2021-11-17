@@ -64,4 +64,9 @@ public class Home_act extends AppCompatActivity {
         i.putExtras(bun);
         startActivity(i);
     }
+     public void Pedidos(View view)
+     {
+         Intent i = new Intent(this, Pedidos_act.class);
+         startActivity(i);
+     }
 }

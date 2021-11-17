@@ -99,6 +99,7 @@
                         android:layout_height="wrap_content"
                         android:layout_margin="10dp"
                         android:backgroundTint="#3F51B5"
+                        android:onClick="Pedidos"
                         android:text="Pedidos"
                         app:cornerRadius="25dp" />
                 </TableRow>
